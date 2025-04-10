@@ -1,3 +1,5 @@
 汇总.xlsx
 .idea
 .venv
+dist
+build
